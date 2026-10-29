@@ -1,4 +1,4 @@
-# Learning Hexahedral Block Decompositions
+# HexIt: hexahedral block decomposition by expert iteration
 
 Project page and (soon) code for **Learning Hexahedral Block Decompositions of Polyhedra with Expert Iteration on
 Combinatorial Maps**.
